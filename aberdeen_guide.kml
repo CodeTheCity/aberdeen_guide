@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="cc86529441">
+      <IconStyle>
+        <scale>0.64</scale>
+        <Icon>
+          <href>https://787274de68dbc5bf84f1-6f7397d65ef7b0edf83ad5f3c18393bb.ssl.cf1.rackcdn.com/paddles/blu-circle.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+      </IconStyle>
+    </Style>
+    <Placemark id="2faf0444dc">
+      <name>Aberdeen Art Gallery</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aagm.co.uk/Visit/AberdeenArtGallery/aag-overview.aspx">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1479766,-2.1030247999999574&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10302479999996,57.1479766</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="a33277c45c">
+      <name>Aberdeen Art Centre</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeenartscentre.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1486381,-2.093789700000002&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.0937897,57.1486381</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="50f285fda6">
+      <name>Anatomy Rooms</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://anatomyrooms.org/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1489946,-2.09534450000001&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09534450000001,57.1489946</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="7b958708d4">
+      <name>Belmont Filmhouse</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.belmontfilmhouse.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1473314,-2.1020562999999584&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10205629999996,57.1473314</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="3fd431b134">
+      <name>Cafe Philosophique at The Blue Lamp</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.abdn.ac.uk/engage/public/cafe-philosophique-143.php">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1511954,-2.099028399999952&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09902839999995,57.1511954</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="6597beae00">
+      <name>City of God worship</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.jesushouseaberdeen.org/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14234579999999,-2.112564700000007&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.11256470000001,57.1423458</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="4f564e27c2">
+      <name>Elphinstone Instutute events</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.abdn.ac.uk/elphinstone/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1647948,-2.102145000000064&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10214500000006,57.1647948</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="f33744c162">
+      <name><![CDATA[His Majesty's Theatre]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeenperformingarts.com/venues/his-majestys-theatre">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14777369999999,-2.107219799999939&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10721979999994,57.1477737</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0fe7ec1faa">
+      <name>Inverted Aberdeen</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://invertedaberdeen.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1468447,-2.089747799999941&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.08974779999994,57.1468447</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="498c3415d4">
+      <name><![CDATA[King's Museum at the University of Aberdeen]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.abdn.ac.uk/museums/exhibitions/kings-museum.php">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1671384,-2.1022259999999733&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10222599999997,57.1671384</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="1fa3727c2d">
+      <name>Maritime Museum</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aagm.co.uk/Visit/AberdeenMaritimeMuseum/amm-overview.aspx">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1466054,-2.094568699999968&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09456869999997,57.1466054</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="aa6abc0cd5">
+      <name>Rendevous Art Gallery</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.rendezvous-gallery.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.138279,-2.1300670000000537&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.13006700000005,57.138279</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="5591041066">
+      <name>St Andrews Cathedral</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://standrewscathedralaberdeen.org.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1489881,-2.0933632999999645&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09336329999996,57.1489881</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="7885fae402">
+      <name>The Lemon Tree</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeenperformingarts.com/venues/the-lemon-tree">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1498113,-2.09496809999996&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09496809999996,57.1498113</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="e7ebabcdb6">
+      <name>The Music Hall</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeenperformingarts.com">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1452833,-2.1033870999999635&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10338709999996,57.1452833</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="20e84ab522">
+      <name>The Tunnels</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeenperformingarts.com/partner-venues/the-tunnels">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14693490000001,-2.0974707000000308&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09747070000003,57.1469349</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="d92b749588">
+      <name>Tivoli Theatre</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.thetivolitheatre.com">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1450538,-2.0975928000000295&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09759280000003,57.1450538</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="1383d03ebc">
+      <name>Balmedie Country Park</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.aberdeenshire.gov.uk/communities-and-events/country-parks/balmedie-country-park/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.25279699999999,-2.057529899999963&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.05752989999996,57.252797</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="2aaf6ea89a">
+      <name>Bridge of Balgownie</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://visitabdn.com/listing/brig-o-balgownie">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.17728160000001,-2.098557700000015&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09855770000001,57.1772816</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="2b9c2cf694">
+      <name>Countesswells Woods</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://scotland.forestry.gov.uk/visit/countesswells">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1171097,-2.204738700000007&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.20473870000001,57.1171097</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="cfd4aaf682">
+      <name>Deeside Way</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.deesideway.org">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.0563142,-2.429299799999967&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.42929979999997,57.0563142</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="3575ee1989">
+      <name>Donmouth Nature Reserve</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeencity.gov.uk/community_life_leisure/parks_open_spaces/ranger_service/pos_donmouth.asp">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.149717,-2.094278000000031&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09427800000003,57.149717</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="cd07227327">
+      <name>Duthie Park (Winter Gardens)</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeencity.gov.uk/community_life_leisure/parks_open_spaces/pos_DuthiePark.asp">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1342925,-2.1036023999999998&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.1036024,57.1342925</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="b74034b4c9">
+      <name>Easter Anguston Farm</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.vsa.org.uk/easter-anguston-farm/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.09756900000001,-2.2652160000000094&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.26521600000001,57.097569</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="68a401da54">
+      <name>Eplanade / promenade</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.aberdeencity.gov.uk/web/files/LocalHistory/NorthSeaTrail.pdf">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1779567,-2.095753699999932&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09575369999993,57.1779567</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="35f2403160">
+      <name>Food market</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.aberdeenshire.gov.uk/business/support-and-advice/industry-sectors/agriculture-and-rural-development/farmers-markets/#aberdeen">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=42.2735136,-71.77790629999998&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-71.7779063,42.2735136</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="db424ba87d">
+      <name>Footdee and Harbour</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.walkhighlands.co.uk/aberdeenshire/footdee.shtml">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14319649999999,-2.0735718999999335&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.07357189999993,57.1431965</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="8c1d41a832">
+      <name>Johnston Gardens</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeencity.gov.uk/community_life_leisure/parks_open_spaces/pos_JohnstonGardens.asp">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1361103,-2.147077500000023&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.14707750000002,57.1361103</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="50af5f420c">
+      <name><![CDATA[King's College (Old Aberdeen)]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeencity.gov.uk/web/files/LocalHistory/old_aberdeen_trail.pdf">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.16475999999999,-2.1015257000000247&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10152570000002,57.16476</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="e898986da2">
+      <name>Mithers Tap</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.walkhighlands.co.uk/aberdeenshire/mither-tap.shtml">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.305036,-2.471196999999961&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.47119699999996,57.305036</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="fd27c84f6b">
+      <name>Seaton Park</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeencity.gov.uk/community_life_leisure/parks_open_spaces/pos_seatonpark.asp">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.17402999999999,-2.096981000000028&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09698100000003,57.17403</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="9526a08159">
+      <name>St Machar Carthedral</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://en.wikipedia.org/wiki/St_Machar%27s_Cathedral">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1694198,-2.1001759000000675&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10017590000007,57.1694198</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="a2dd27cf32">
+      <name>St Nicholas Cathedral</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://en.wikipedia.org/wiki/Kirk_of_St_Nicholas">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1452833,-2.1033870999999635&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10338709999996,57.1452833</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="5d61037330">
+      <name>Torry battery (dophin watching)</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.walkhighlands.co.uk/aberdeenshire/girdle-ness.shtml">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.141707,-2.0629208999999946&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.06292089999999,57.141707</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="36c80cf7fd">
+      <name>Victoria Park</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeencity.gov.uk/community_life_leisure/parks_open_spaces/pos_victoriapark.asp">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.15112629999999,-2.118288200000052&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.11828820000005,57.1511263</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="1cf5102240">
+      <name>Vue Cinema</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.myvue.com/cinema/aberdeen/whats-on">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1471115,-2.0949975999999424&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09499759999994,57.1471115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="120241f093">
+      <name>Westburn Park</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeencity.gov.uk/community_life_leisure/parks_open_spaces/pos_VictoriaPark.asp">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1524598,-2.130767500000047&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.13076750000005,57.1524598</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="5da455e091">
+      <name>Winter Gardens at Duthie Park</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeencity.gov.uk/community_life_leisure/parks_open_spaces/pos_duthiepark.asp">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1342925,-2.1036023999999998&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.1036024,57.1342925</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="4e02d9721f">
+      <name>Aperitivo</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aperitivoaberdeen.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1440874,-2.10513949999995&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10513949999995,57.1440874</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="7a7d455946">
+      <name>Bar 99</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://99aberdeen.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1464772,-2.0999554999999646&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09995549999996,57.1464772</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="c5d8dc8baf">
+      <name>Bistro 210</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.210bistro.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1420018,-2.091921500000012&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09192150000001,57.1420018</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="a29614fc19">
+      <name>Bistro Verde</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiatLPT7tnXAhUMLMAKHZoZDTUQFggwMAA&amp;url=http%3A%2F%2Fwww.bistroverde.co.uk%2F&amp;usg=AOvVaw25i8qXI5L-fxJEZC8Tgewa">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1456575,-2.100152900000012&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10015290000001,57.1456575</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="2ca18bf12e">
+      <name><![CDATA[Black Friar's]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.oldblackfriars-aberdeen.co.uk/menu">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1477803,-2.0932040000000143&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09320400000001,57.1477803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="7f9153664d">
+      <name>Blue Elephant</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://blueelephantaberdeen.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.15212889999999,-2.1040183999999726&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10401839999997,57.1521289</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="82193e8ab0">
+      <name>Blue Lamp</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.jazzatthebluelamp.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1511954,-2.099028399999952&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09902839999995,57.1511954</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="6e30a3f832">
+      <name>Bonobo Cafe</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.bonobotribe.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1475121,-2.1084476999999424&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10844769999994,57.1475121</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="d9783d6fd3">
+      <name>Books and Beans</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.booksandbeans.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1469128,-2.1012092999999368&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10120929999994,57.1469128</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="8b8dfa27cd">
+      <name>Brewdog (Castlegate)</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.brewdog.com/bars/uk/aberdeen">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1475325,-2.094646300000022&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09464630000002,57.1475325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="d9b8770c2b">
+      <name>Brewdog (Marischal)</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.brewdog.com/bars/uk/aberdeen">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1494819,-2.097828800000002&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.0978288,57.1494819</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="93675ee20e">
+      <name>Cafe 52</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://cafe52.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1461263,-2.099289399999975&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09928939999998,57.1461263</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="6bc99d2a14">
+      <name><![CDATA[Carmines Pizza & Pasta]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.carminesnypizza.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14717340000001,-2.104923299999996&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.1049233,57.1471734</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="8989e52d48">
+      <name>CASC</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.cascbar.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1458779,-2.0976567999999816&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09765679999998,57.1458779</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="7e01d3c06b">
+      <name>Christos</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://christos-taverna.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1517355,-2.1017561999999543&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10175619999995,57.1517355</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="a31c09e8f4">
+      <name>Cocoa Ooze</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.cocoa-ooze.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.12624109999999,-2.0868313999999373&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.08683139999994,57.1262411</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="bb3217cf2b">
+      <name>Cognito</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.cognitodeli.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1401721,-2.1251753000000235&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.12517530000002,57.1401721</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="7e92a02f21">
+      <name>Corner Tree Cafe</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.cornertreecafe.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1456467,-2.1229240999999774&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.12292409999998,57.1456467</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="f0d9e579db">
+      <name>Cult of Coffee</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.tripadvisor.co.uk/Restaurant_Review-g186487-d12359193-Reviews-The_Cult_of_Coffee-Aberdeen_Aberdeenshire_Scotland.html">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1482739,-2.114387699999952&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.11438769999995,57.1482739</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="9b4c44651d">
+      <name>Cup Cafe</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://cupcafe.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1468159,-2.1005987999999434&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10059879999994,57.1468159</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="8d482c75a5">
+      <name>Ferryhill House Hotel</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://ferryhillhousehotel.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.13850069999999,-2.1046618999999964&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.1046619,57.1385007</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="d7d9610788">
+      <name><![CDATA[Fifi's Bistro (Fifi & Mac)]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.fifiandmac.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1493973,-2.1223952999999938&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.12239529999999,57.1493973</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="484a184a6f">
+      <name>Foodstory</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://foodstorycafe.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14394189999999,-2.110815099999968&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.11081509999997,57.1439419</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="8c2c105413">
+      <name>Handmade Burger Co</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://handmadeburger.co.uk/our-restaurants/find-a-restaurant/handmade-burger-co-aberdeen/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1427616,-2.0961604000000307&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09616040000003,57.1427616</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="eadf8ecb3c">
+      <name>John Lewis Aberdeen</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.johnlewis.com/our-shops/aberdeen">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.15341979999999,-2.1052953999999318&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10529539999993,57.1534198</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="fdf43e015a">
+      <name>Kamoon kitchen</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.kamoon-kitchen.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.194557,-2.1253408000000036&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.1253408,57.194557</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0f43479c82">
+      <name>Krakatoa</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://krakatoa.bar/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1458417,-2.095116800000028&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09511680000003,57.1458417</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="bb2b3a9d2f">
+      <name>La Lombarda</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.lalombarda.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1484093,-2.0931324000000586&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09313240000006,57.1484093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="e84f721f2b">
+      <name>Madame Mews</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.madamemews.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.146486,-2.0971294999999373&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09712949999994,57.146486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="b160297e40">
+      <name>MammaPizza</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://mammapizza.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1464495,-2.1011548000000175&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10115480000002,57.1464495</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="3a85431438">
+      <name>Moonfish</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.moonfishcafe.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14730420000001,-2.0986040999999886&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09860409999999,57.1473042</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="000e5eb57a">
+      <name>Musa</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://musaaberdeen.com/events-blog/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1455658,-2.096536799999967&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09653679999997,57.1455658</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="b35c8312c0">
+      <name>Nargile</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://nargilerestaurant.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1476657,-2.1076861000000235&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10768610000002,57.1476657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="6d24902683">
+      <name>Number 10</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://no10aberdeen.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1435902,-2.1212514000000056&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.12125140000001,57.1435902</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="fdeb464ce8">
+      <name>Parx Cafe</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.cafeparx.co.uk">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1433587,-2.118253099999947&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.11825309999995,57.1433587</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="b2c6f4f697">
+      <name>Pasta Plus</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://restaurantwebx.com/PastaPlus/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1496989,-2.116039999999998&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.11604,57.1496989</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="b4ea2d4184">
+      <name><![CDATA[Poldino's]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.poldinos.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1468732,-2.100306499999988&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10030649999999,57.1468732</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="43327f99db">
+      <name>Prince of Wales</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.princeofwales-aberdeen.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14729449999999,-2.098548400000027&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09854840000003,57.1472945</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="57c6765f0b">
+      <name>Rishi</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.rishis-aberdeen.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.15107099999999,-2.102332400000023&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10233240000002,57.151071</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ce427f3a26">
+      <name><![CDATA[Rustico's]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.rustico-restaurant.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1444981,-2.109050600000046&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10905060000005,57.1444981</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="afb8a8498c">
+      <name>Sand Dollar</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.sanddollarcafe.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1510024,-2.0780776000000287&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.07807760000003,57.1510024</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="e2f4f2b5e5">
+      <name>Sanddollar cafe (Jazz)</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.sanddollarcafe.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1510024,-2.0780776000000287&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.07807760000003,57.1510024</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="f323e88b50">
+      <name><![CDATA[Shri Bheema's]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://shribheemas.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1465936,-2.1015069999999696&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10150699999997,57.1465936</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="32761a7460">
+      <name>Silver Darling</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.thesilverdarling.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14276599999999,-2.0722173999999995&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.0722174,57.142766</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="f47a2e111e">
+      <name>Thai Seasons Cafe</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.facebook.com/thaiseasonscafe.aberdeen">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1356282,-2.175375600000052&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.17537560000005,57.1356282</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="c6f58c7ba5">
+      <name>The Blue Lamp</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.aberdeenperformingarts.com/partner-venues/the-blue-lamp">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1511954,-2.099028399999952&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09902839999995,57.1511954</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="46612f7689">
+      <name>The Coffee house</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://coffeehouseabz.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1464412,-2.100528299999951&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10052829999995,57.1464412</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="9c5d10921d">
+      <name>The Craftsman</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://thecraftsmancompany.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14392369999999,-2.096733900000004&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.0967339,57.1439237</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="74bc6d0f82">
+      <name>The Grill</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://thegrillaberdeen.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1448462,-2.104244900000026&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10424490000003,57.1448462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="7cdd651bab">
+      <name>The Tippling House</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.thetipplinghouse.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1463453,-2.100622299999941&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10062229999994,57.1463453</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="e14d50afb3">
+      <name>Triple Kirks</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.social-squirrel.com/thetriplekirksaberdeen">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1479381,-2.1014241999999967&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.1014242,57.1479381</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="6499efb3b6">
+      <name><![CDATA[Virginia's]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://restaurantwebx.com/Virginias/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.149411,-2.120148400000062&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.12014840000006,57.149411</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="d674150df9">
+      <name>Yatai</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.yatai.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.143045,-2.1074551000000383&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10745510000004,57.143045</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="31d578db33">
+      <name><![CDATA[Annie Mo's]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.anniemos.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14718449999999,-2.095902199999955&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09590219999996,57.1471845</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="3433309ea1">
+      <name>Asylum Books and Games</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.asylum-booksandgames.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1466963,-2.095734900000025&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09573490000002,57.1466963</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="73c4336d09">
+      <name>Books and Beans</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.booksandbeans.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1469128,-2.1012092999999368&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10120929999994,57.1469128</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="f1910bd19f">
+      <name>Candle Close Gallery</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://candleclosegallery.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1514159,-2.099186599999939&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09918659999994,57.1514159</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="2673262cc3">
+      <name>Craigdon Mountain Sports</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.craigdonmountainsports.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.15069699999999,-2.1009039000000485&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10090390000005,57.150697</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="35abab0f55">
+      <name>Curated Stories</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.curatedstories.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1385692,-2.1214707999999973&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.1214708,57.1385692</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="40aef1f1d1">
+      <name>Fair deal foods</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.facebook.com/fairdealfoods/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1674005,-2.1121279000000186&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.11212790000002,57.1674005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="729f65cdb3">
+      <name>Grampian health store</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.grampianhealthstore.co.uk/store/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14593679999999,-2.096639600000003&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.0966396,57.1459368</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="f75fa14ad7">
+      <name>Haigs butcher</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.haigsdirect.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1477878,-2.1006602999999586&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10066029999996,57.1477878</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ecb92cf47a">
+      <name>Hamish Munro</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.facebook.com/hamishmunro-211128798922667/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.14387989999999,-2.112186299999962&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.11218629999996,57.1438799</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="33d101c14b">
+      <name><![CDATA[Herd's Butchers]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.herdbutchers.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1493973,-2.1223952999999938&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.12239529999999,57.1493973</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="387532a40d">
+      <name>Humbug</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://humbugaberdeen.com">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1494826,-2.1179061000000274&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.11790610000003,57.1494826</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="881251667e">
+      <name>Junction Arts</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.junction-arts.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1366917,-2.115008200000034&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.11500820000003,57.1366917</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0783f200f7">
+      <name>Juniper</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.juniperaberdeen.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1470582,-2.101674799999955&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10167479999996,57.1470582</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="9ba6ee630d">
+      <name>Macbeans</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.macbeans.com/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1471262,-2.10025619999999&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10025619999999,57.1471262</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0672fd86bb">
+      <name>Party Mania</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="http://www.partymania.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.15203649999999,-2.1035220999999638&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10352209999996,57.1520365</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="fb30c7b84e">
+      <name><![CDATA[Scotland's Bothy]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.scotlandsbothy.co.uk/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.151533,-2.1030319999999847&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10303199999998,57.151533</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="113ddf7d9b">
+      <name><![CDATA[Scottish & Ancient]]></name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://goo.gl/VfGE2F">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1475306,-2.0928493000000117&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09284930000001,57.1475306</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="5b5c8adabf">
+      <name>Seratique</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.facebook.com/seratiqueaberdeen/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1469171,-2.101216900000054&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.10121690000005,57.1469171</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="198a697d02">
+      <name>Spin</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.facebook.com/spinaberdeen/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1496833,-2.0975270999999793&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09752709999998,57.1496833</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="cbe9c02939">
+      <name>Sterling Furniture</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.sterlingfurniture.co.uk/stores/aberdeen/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1944896,-2.093977099999961&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.09397709999996,57.1944896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ad82a86fc1">
+      <name>Thistle street market</name>
+      <description><![CDATA[<br><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.visitabdn.com/whats-on/the-thistle-street-food-market/">Website</a></div><div style="text-align: center"><a target="_blank" style="color: #0000ff ; text-decoration: underline" href="https://www.google.com/maps?daddr=57.1440139,-2.111861299999987&amp;hl=en">Get Directions</a></div><br>]]></description>
+      <styleUrl>#cc86529441</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-2.11186129999999,57.1440139</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
