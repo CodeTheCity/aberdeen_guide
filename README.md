@@ -1,4 +1,4 @@
-# README
+# ABERDEEN GUIDE
 
 This is for the #aberdeenguide of crowdsourced things to do in Aberdeen, Scotland.
 
@@ -9,6 +9,9 @@ This is for the #aberdeenguide of crowdsourced things to do in Aberdeen, Scotlan
 * We used https://github.com/afast/map_print to build a script to convert the data to a PDF map using a rake script.
 * Use numbered icons for the map https://mapicons.mapsmarker.com/numbers-letters/numbers/
 * We call the script with bin/rake abdnguide:buildpdf
+
+## The map
+The completed map appears as 'map.pdf' in the files listed above.
 
 ## More options
 * Map icons http://osm-icons.org/wiki/Icons
