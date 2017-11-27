@@ -9,7 +9,10 @@ This is for the #aberdeenguide of crowdsourced things to do in Aberdeen, Scotlan
 * The geojson is then cleaned up to remove html formatting.
 * We used https://github.com/afast/map_print to build a script to convert the data to a PDF map using a rake script.
 * Use numbered icons for the map https://mapicons.mapsmarker.com/numbers-letters/numbers/
-* We call the script with bin/rake abdnguide:buildpdf
+* We created a Rails app, but only use it to provide support for the 'map_print' library, which we use in the lib/tasks/abdnguide.rake script.
+* Call the script to generate the map with
+
+    bin/rake abdnguide:buildpdf
 
 ## The map
 The completed map appears as 'map.pdf' in the files listed above.
@@ -17,3 +20,8 @@ The completed map appears as 'map.pdf' in the files listed above.
 ## More options
 * Map icons http://osm-icons.org/wiki/Icons
 * Possible method to add URIs in PDF https://stackoverflow.com/questions/2216119/can-prawn-generate-pdfs-with-links
+* There might be more that can be done with the GeoJSON too by looking at the standard https://tools.ietf.org/html/rfc7946
+* Or we might be able to use https://www.mapbox.com too.
+
+## Future work
+With basics of map generation understood, and to avoid the tedious hand crafting of GeoJSON files, we could put the spreadsheet of places under the app, and use Rails models to dynamically generate the GeoJSON ourselves for both the larger map, plus a separate inset map of the city centre locations.
