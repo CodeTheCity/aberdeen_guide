@@ -12,7 +12,7 @@ This is for the #aberdeenguide of crowdsourced things to do in Aberdeen, Scotlan
 * We created a Rails app, but only use it to provide support for the 'map_print' library, which we use in the lib/tasks/abdnguide.rake script.
 * Call the script to generate the map with
 
-    bin/rake abdnguide:buildpdf
+      bin/rake abdnguide:buildpdf
 
 ## The map
 The completed map appears as 'map.pdf' in the files listed above.
