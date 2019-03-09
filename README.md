@@ -7,7 +7,7 @@ This is for the #aberdeenguide of crowdsourced things to do in Aberdeen, Scotlan
 * Then put this into https://www.mapyourlist.com which was then refined in https://www.scribblemaps.com/create/ and exported as KML.
 * The KML was converted to GeoJSON at http://2geojson.com/index.php
 * The geojson is then cleaned up to remove html formatting.
-* We used https://github.com/afast/map_print to build a script to convert the data to a PDF map using a rake script.
+* We used https://github.com/afast/map_print to build a script to convert the data to a PDF map using a rake script in Ruby.
 * Use numbered icons for the map https://mapicons.mapsmarker.com/numbers-letters/numbers/
 * We created a Rails app, but only use it to provide support for the 'map_print' library, which we use in the lib/tasks/abdnguide.rake script.
 * Call the script to generate the map with
