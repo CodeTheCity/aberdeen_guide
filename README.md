@@ -4,6 +4,7 @@ This is for the #aberdeenguide of crowdsourced things to do in Aberdeen, Scotlan
 
 * We gathered information from the public via our call at http://codethecity.org/2017/11/help-us-crowdsource-an-aberdeen-city-guide/
 * We converged this data down to a list of places with addresses and URLS.
+* We used https://www.latlong.net/convert-address-to-lat-long.html and Google maps (drilling down to street level and clicking on location to pull up coordinates) for gathering lat and longs for locations.
 * Then put this into https://www.mapyourlist.com which was then refined in https://www.scribblemaps.com/create/ and exported as KML.
 * The KML was converted to GeoJSON at http://2geojson.com/index.php
 * The geojson is then cleaned up to remove html formatting.
