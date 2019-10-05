@@ -20,9 +20,13 @@ The completed map appears as 'map.pdf' in the files listed above.
 
 ## More options
 * Map icons http://osm-icons.org/wiki/Icons
-* Possible method to add URIs in PDF https://stackoverflow.com/questions/2216119/can-prawn-generate-pdfs-with-links
+* Possible method to add URIs in PDF https://stackoverflow.com/questions/2216119/
+can-prawn-generate-pdfs-with-links or use https://github.com/mileszs/wicked_pdf which might also work with 
+https://leafletjs.com to do the maps in a better way
+* explore doing maps, etc under Mac OS?
 * There might be more that can be done with the GeoJSON too by looking at the standard https://tools.ietf.org/html/rfc7946
 * Or we might be able to use https://www.mapbox.com too.
 
 ## Future work
 With basics of map generation understood, and to avoid the tedious hand crafting of GeoJSON files, we could put the spreadsheet of places under the app, and use Rails models to dynamically generate the GeoJSON ourselves for both the larger map, plus a separate inset map of the city centre locations.
+
